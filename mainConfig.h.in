@@ -1,0 +1,4 @@
+//the configured options and settings for SimpleTesseract
+#define SimpleTesseract_VERSION_MAJOR @SimpleTesseract_VERSION_MAJOR@
+#define SimpleTesseract_VERSION_MINOR @SimpleTesseract_VERSION_MINOR@
+#define TESSDATA_PATH "@TESSDATA_PATH@"
